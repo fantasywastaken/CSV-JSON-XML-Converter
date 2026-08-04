@@ -1,1 +1,0 @@
-Go CLI to convert data between CSV, JSON, and XML formats with automatic detection, streaming reads, and pretty output.

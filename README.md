@@ -1,7 +1,5 @@
 # CSV-JSON-XML-Converter
 
-![banner](https://i.imgur.com/PLACEHOLDER.png)
-
 Convert data files between CSV, JSON, and XML formats with a single command and automatic format detection.
 
 ### How It Works
